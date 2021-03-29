@@ -3,6 +3,8 @@
     {
       "id": 1,
       "user": "ian",
+      "email:: "ian@test.com",
+      "level": 1
       
     }
   ],
